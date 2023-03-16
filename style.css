@@ -1,0 +1,28 @@
+
+/*  PASSO 01 
+
+body {
+    #383D58
+    }
+
+*/
+
+/*  PASSO 02 FONTE PRETA
+body {
+    background-color: #383D58;
+    }
+
+*/
+
+/*  PASSO 3 FONTE BRANCA  */
+    body {
+        background-color: #383D58;
+        color: white;
+        }
+
+    /* PASSO 4  */  
+
+    header {
+        background-color: #383D58;
+        color: white;
+        }
